@@ -11,3 +11,6 @@ pom.xml.asc
 /.prepl-port
 .hgignore
 .hg/
+.calva/output-window/output.calva-repl
+.calva/output-window/.clj-kondo/config.edn
+.calva/output-window/.clj-kondo/.cache/2020.09.09/lock
